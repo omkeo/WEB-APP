@@ -1,0 +1,18 @@
+.navBox{
+    background-color: black;
+    color: white;
+    height: 99vh;
+    width: fit-content;
+    position: stickys;
+    top: 0;
+}
+.navBtn{
+    margin: auto;
+    text-align: center;
+    padding: 3px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.logo{
+    width: 90px;
+}

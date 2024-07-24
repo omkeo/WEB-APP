@@ -1,0 +1,69 @@
+.homeHorrizontalNav {
+    height: 50px;
+    width: 92vw;
+    position:  sticky;
+    top: 0;
+    background-color: #e7dede;
+    padding: 10px;
+    margin: auto;
+}
+
+.btn-small-custom {
+    font-size: 0.75rem;
+    height: 30px;
+    margin-bottom: 10px;
+     width: 100%;
+    background-color: rgb(40, 192, 40);
+    outline: none;
+    border: none;
+    border-radius: 7px;
+}
+.AddNewBillBtn{
+    font-size: 0.75rem;
+    height: 30px;
+    width: 100px;
+    margin-left: 10px;
+    background-color: rgb(40, 192, 40);
+    outline: none;
+    border: none;
+    border-radius: 7px;
+
+}
+
+.customProductDivOnHome {
+    background-color: white;
+    padding: 5px;
+    height: 100px;
+    border: 2px solid rgb(221, 218, 218);
+    border-radius: 25px;
+    font-size: 0.5rem;
+    text-align: center;
+    cursor: pointer;
+}
+
+.customProductDivOnHome span {
+    font-weight: bold;
+}
+
+.billTable {
+    background-color: rgb(202, 199, 199);
+
+
+}
+
+td,
+tr {
+    border: 1px solid black;
+}
+
+.tableDataClass {
+    border: 1px solid black;
+
+}
+
+.HomeScreenMainDiv {
+    padding-top: 15px;
+    
+    position: fixed;
+}
+ 

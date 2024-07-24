@@ -1,0 +1,12 @@
+#login
+
+
+#category
+1) add category--    category name, status
+2) list category-- edit, delete
+
+
+
+#products
+1) add new product --- product name, price, image, categoryId
+2) list product -- view, edit, delete

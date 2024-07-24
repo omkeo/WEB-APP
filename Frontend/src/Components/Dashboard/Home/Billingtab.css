@@ -1,0 +1,46 @@
+.tabCloseButton{
+    outline: none;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    height: 25px;
+    background-color: transparent;
+}
+.billingTabsList{
+    background-color: rgb(204, 200, 200);
+    height: 35px;
+}
+ .quantityIncrDecrIcons{
+    width: 5px;
+     
+ }
+ .paymentModeBtn{
+    background-color: rgb(40, 192, 40);
+    width: 80px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 10px;
+    display: inline;
+ }
+ .paymentModeBtn:hover{
+    background-color: rgb(78, 158, 78);
+ }
+ .paymentAndPrintBtn{
+    background-color: rgb(40, 192, 40);
+    width: 100px;
+    border-radius: 10px;
+    margin: 20px;
+    outline: none;
+    border: none;
+ }
+ .paymentAndPrintBtn:hover{
+    background-color: rgb(78, 158, 78);
+ }
+ .customerDetailsInput{
+    border: none;
+    outline: none;
+    margin-left: 20px;
+    padding-left: 10px;
+    border-radius: 8px;
+ }

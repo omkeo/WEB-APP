@@ -1,0 +1,43 @@
+.homeBgImg {
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.loginForm {
+
+    border: 1px solid black;
+    width: 25vw;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.mainDiv input {
+    width: 95%;
+    outline: none;
+    height: 20px;
+}
+
+.mainDiv {
+    background-image: ();
+    background-image: url(../../assets/HomeBg.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.loginBtn {
+    width: 100px;
+    height: 30px;
+    background-color: #536854;
+    margin-left: 35%;
+    cursor: pointer;
+    border-radius: 4px;
+}

@@ -1,0 +1,87 @@
+.searchBar{
+     
+    width: 80vw;
+    margin: auto;
+    padding: 10px;
+}
+.addproductForm{
+    z-index: 999;
+    position: fixed;
+}
+.productsList{
+    
+    border-radius: 10px;
+    padding: 7px;
+    margin: 8px;
+}
+.searchBar label{
+    font-size: larger;
+    padding: 5px;
+    width: 30;
+}
+.searchBar input{
+    width: 70%;
+    padding: 7px;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+}
+.Mainscreen{
+  
+    display: flex;
+}
+.filterBtnDiv{
+   
+    display: flex;
+    flex-direction: column;
+   
+}
+.filterBtnDiv button{
+    background-color: rgb(61, 238, 61);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    width: 130px;
+
+}
+.addProductBtn{
+    background-color: rgb(61, 238, 61);
+    padding: 7px;
+    margin: 7px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    width: 120px;
+    margin-left: 50px;
+
+}
+.container{
+    background-color: rgb(240, 238, 238);
+    min-height: 100vh;
+}
+table {
+    width: 100%;
+    border-collapse: collapse; 
+     
+}
+
+th, td {
+    border: 1px solid #dddcdc; 
+    text-align: center; 
+ 
+}
+
+th {
+    background-color: rgb(240, 240, 240); 
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+tr:hover {
+    background-color: #e8e8e8; 
+}
